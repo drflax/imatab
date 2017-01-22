@@ -1,0 +1,19 @@
+body{background-color:rgb(255, 255, 255);font:400 1em/1.38 Muli;color:rgb(0, 0, 0);}
+
+.container{float:left;width:100%;background-color:rgba(153, 153, 153, 0.52);}
+
+.container .text{margin:30px 0 0 25.5%;font-size:1.875em;}
+
+.text{float:left;line-height:1.38;color:rgb(0, 0, 0);}
+
+.wrapper{float:left;clear:both;width:800px;margin-left:0.6134259259%;overflow:hidden;}
+
+.container-1{height:112px;border:1px solid rgb(0, 0, 0);background-image:url('../images/header1792406335%20copia.png');background-repeat:no-repeat;background-size:contain;background-position:left center;text-shadow:0 2px 5px rgba(0, 0, 0, .5);}
+
+.container-2{position:relative;clear:both;z-index:4;height:42px;margin-top:5px;}
+
+.text-2{position:relative;clear:both;z-index:5;width:405px;margin:-22px 0 0 50%;font-size:1em;font-weight:400;}
+
+.wrapper-1{height:200px;margin-top:6px;}
+
+.wrapper-2{height:480px;margin-top:7px;}
